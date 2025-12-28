@@ -1,0 +1,28 @@
+Gestion General
+Usuarios:
+Configuración
+sedes
+roles
+
+Gestion de carreras
+Areas
+Carreras
+
+Gestion de personas:
+Personas (Tipos de personas)
+
+Gestion de Matriculas:
+Matriculas del alumno
+
+Gestion de pagos
+Conceptos
+
+Contabilidad:
+Gestion de movimientos:
+Registrar Ingresos y Salidas
+
+Gestion de pagos:
+
+
+
+
